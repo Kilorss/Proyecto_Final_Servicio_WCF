@@ -1,0 +1,15 @@
+D:\a\III_Cuatri\Progra_IV\Proyecto Final\Tarea_1\SITE\bin\SITE.dll.config
+D:\a\III_Cuatri\Progra_IV\Proyecto Final\Tarea_1\SITE\bin\SITE.dll
+D:\a\III_Cuatri\Progra_IV\Proyecto Final\Tarea_1\SITE\bin\SITE.pdb
+D:\a\III_Cuatri\Progra_IV\Proyecto Final\Tarea_1\SITE\bin\SVC.dll
+D:\a\III_Cuatri\Progra_IV\Proyecto Final\Tarea_1\SITE\bin\DAL.dll
+D:\a\III_Cuatri\Progra_IV\Proyecto Final\Tarea_1\SITE\bin\BLL.dll
+D:\a\III_Cuatri\Progra_IV\Proyecto Final\Tarea_1\SITE\bin\SVC.pdb
+D:\a\III_Cuatri\Progra_IV\Proyecto Final\Tarea_1\SITE\bin\SVC.dll.config
+D:\a\III_Cuatri\Progra_IV\Proyecto Final\Tarea_1\SITE\bin\DAL.pdb
+D:\a\III_Cuatri\Progra_IV\Proyecto Final\Tarea_1\SITE\bin\BLL.pdb
+D:\a\III_Cuatri\Progra_IV\Proyecto Final\Tarea_1\SITE\obj\Debug\SITE.csproj.AssemblyReference.cache
+D:\a\III_Cuatri\Progra_IV\Proyecto Final\Tarea_1\SITE\obj\Debug\SITE.csproj.CoreCompileInputs.cache
+D:\a\III_Cuatri\Progra_IV\Proyecto Final\Tarea_1\SITE\obj\Debug\SITE.csproj.CopyComplete
+D:\a\III_Cuatri\Progra_IV\Proyecto Final\Tarea_1\SITE\obj\Debug\SITE.dll
+D:\a\III_Cuatri\Progra_IV\Proyecto Final\Tarea_1\SITE\obj\Debug\SITE.pdb
