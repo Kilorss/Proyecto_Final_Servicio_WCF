@@ -3,3 +3,9 @@ D:\a\III_Cuatri\Progra_IV\Proyecto Final\Tarea_1\DAL\bin\Debug\DAL.pdb
 D:\a\III_Cuatri\Progra_IV\Proyecto Final\Tarea_1\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
 D:\a\III_Cuatri\Progra_IV\Proyecto Final\Tarea_1\DAL\obj\Debug\DAL.dll
 D:\a\III_Cuatri\Progra_IV\Proyecto Final\Tarea_1\DAL\obj\Debug\DAL.pdb
+C:\Users\lizet\Desktop\Proyecto Final Progra IV Github\Proyecto_Final_Servicio_WCF\DAL\bin\Debug\DAL.dll
+C:\Users\lizet\Desktop\Proyecto Final Progra IV Github\Proyecto_Final_Servicio_WCF\DAL\bin\Debug\DAL.pdb
+C:\Users\lizet\Desktop\Proyecto Final Progra IV Github\Proyecto_Final_Servicio_WCF\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\lizet\Desktop\Proyecto Final Progra IV Github\Proyecto_Final_Servicio_WCF\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\lizet\Desktop\Proyecto Final Progra IV Github\Proyecto_Final_Servicio_WCF\DAL\obj\Debug\DAL.dll
+C:\Users\lizet\Desktop\Proyecto Final Progra IV Github\Proyecto_Final_Servicio_WCF\DAL\obj\Debug\DAL.pdb

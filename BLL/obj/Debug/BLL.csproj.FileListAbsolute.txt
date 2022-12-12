@@ -7,3 +7,12 @@ D:\a\III_Cuatri\Progra_IV\Proyecto Final\Tarea_1\BLL\obj\Debug\BLL.csproj.CoreCo
 D:\a\III_Cuatri\Progra_IV\Proyecto Final\Tarea_1\BLL\obj\Debug\BLL.csproj.CopyComplete
 D:\a\III_Cuatri\Progra_IV\Proyecto Final\Tarea_1\BLL\obj\Debug\BLL.dll
 D:\a\III_Cuatri\Progra_IV\Proyecto Final\Tarea_1\BLL\obj\Debug\BLL.pdb
+C:\Users\lizet\Desktop\Proyecto Final Progra IV Github\Proyecto_Final_Servicio_WCF\BLL\bin\Debug\BLL.dll
+C:\Users\lizet\Desktop\Proyecto Final Progra IV Github\Proyecto_Final_Servicio_WCF\BLL\bin\Debug\BLL.pdb
+C:\Users\lizet\Desktop\Proyecto Final Progra IV Github\Proyecto_Final_Servicio_WCF\BLL\bin\Debug\DAL.dll
+C:\Users\lizet\Desktop\Proyecto Final Progra IV Github\Proyecto_Final_Servicio_WCF\BLL\bin\Debug\DAL.pdb
+C:\Users\lizet\Desktop\Proyecto Final Progra IV Github\Proyecto_Final_Servicio_WCF\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\lizet\Desktop\Proyecto Final Progra IV Github\Proyecto_Final_Servicio_WCF\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\lizet\Desktop\Proyecto Final Progra IV Github\Proyecto_Final_Servicio_WCF\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\lizet\Desktop\Proyecto Final Progra IV Github\Proyecto_Final_Servicio_WCF\BLL\obj\Debug\BLL.dll
+C:\Users\lizet\Desktop\Proyecto Final Progra IV Github\Proyecto_Final_Servicio_WCF\BLL\obj\Debug\BLL.pdb

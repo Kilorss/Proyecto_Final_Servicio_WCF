@@ -13,3 +13,18 @@ D:\a\III_Cuatri\Progra_IV\Proyecto Final\Tarea_1\SITE\obj\Debug\SITE.csproj.Core
 D:\a\III_Cuatri\Progra_IV\Proyecto Final\Tarea_1\SITE\obj\Debug\SITE.csproj.CopyComplete
 D:\a\III_Cuatri\Progra_IV\Proyecto Final\Tarea_1\SITE\obj\Debug\SITE.dll
 D:\a\III_Cuatri\Progra_IV\Proyecto Final\Tarea_1\SITE\obj\Debug\SITE.pdb
+C:\Users\lizet\Desktop\Proyecto Final Progra IV Github\Proyecto_Final_Servicio_WCF\SITE\bin\SITE.dll.config
+C:\Users\lizet\Desktop\Proyecto Final Progra IV Github\Proyecto_Final_Servicio_WCF\SITE\bin\SITE.dll
+C:\Users\lizet\Desktop\Proyecto Final Progra IV Github\Proyecto_Final_Servicio_WCF\SITE\bin\SITE.pdb
+C:\Users\lizet\Desktop\Proyecto Final Progra IV Github\Proyecto_Final_Servicio_WCF\SITE\bin\SVC.dll
+C:\Users\lizet\Desktop\Proyecto Final Progra IV Github\Proyecto_Final_Servicio_WCF\SITE\bin\DAL.dll
+C:\Users\lizet\Desktop\Proyecto Final Progra IV Github\Proyecto_Final_Servicio_WCF\SITE\bin\BLL.dll
+C:\Users\lizet\Desktop\Proyecto Final Progra IV Github\Proyecto_Final_Servicio_WCF\SITE\bin\SVC.pdb
+C:\Users\lizet\Desktop\Proyecto Final Progra IV Github\Proyecto_Final_Servicio_WCF\SITE\bin\SVC.dll.config
+C:\Users\lizet\Desktop\Proyecto Final Progra IV Github\Proyecto_Final_Servicio_WCF\SITE\bin\DAL.pdb
+C:\Users\lizet\Desktop\Proyecto Final Progra IV Github\Proyecto_Final_Servicio_WCF\SITE\bin\BLL.pdb
+C:\Users\lizet\Desktop\Proyecto Final Progra IV Github\Proyecto_Final_Servicio_WCF\SITE\obj\Debug\SITE.csproj.AssemblyReference.cache
+C:\Users\lizet\Desktop\Proyecto Final Progra IV Github\Proyecto_Final_Servicio_WCF\SITE\obj\Debug\SITE.csproj.CoreCompileInputs.cache
+C:\Users\lizet\Desktop\Proyecto Final Progra IV Github\Proyecto_Final_Servicio_WCF\SITE\obj\Debug\SITE.csproj.CopyComplete
+C:\Users\lizet\Desktop\Proyecto Final Progra IV Github\Proyecto_Final_Servicio_WCF\SITE\obj\Debug\SITE.dll
+C:\Users\lizet\Desktop\Proyecto Final Progra IV Github\Proyecto_Final_Servicio_WCF\SITE\obj\Debug\SITE.pdb

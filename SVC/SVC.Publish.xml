@@ -1,24 +1,35 @@
 <publishData>
+  <publishTarget publishUrl="C:\inetpub\wwwroot\WCF\">
+    <file relUrl="bin/BLL.pdb" publishTime="12/11/2022 19:50:57" />
+    <file relUrl="bin/DAL.dll" publishTime="12/11/2022 19:50:57" />
+    <file relUrl="bin/SVC.dll" publishTime="12/11/2022 19:50:57" />
+    <file relUrl="bin/SVC.dll.config" publishTime="12/11/2022 19:50:03" />
+    <file relUrl="bin/SVC.pdb" publishTime="12/11/2022 19:50:57" />
+    <file relUrl="SVC.Contratos.DB.svc" publishTime="12/11/2022 19:54:09" />
+    <file relUrl="Web.config" publishTime="12/11/2022 19:50:03" />
+    <file relUrl="bin/DAL.pdb" publishTime="12/11/2022 19:50:57" />
+    <file relUrl="bin/BLL.dll" publishTime="12/11/2022 19:50:57" />
+  </publishTarget>
   <publishTarget publishUrl="D:\a\III_Cuatri\Progra_IV\Proyecto Final\Published_Files\">
-    <file relUrl="bin/BLL.pdb" publishTime="12/10/2022 18:47:28" />
     <file relUrl="bin/SVC.dll" publishTime="12/10/2022 18:47:28" />
+    <file relUrl="Web.config" publishTime="12/10/2022 18:56:13" />
     <file relUrl="bin/SVC.pdb" publishTime="12/10/2022 18:47:28" />
     <file relUrl="SVC.Contratos.DB.svc" publishTime="12/10/2022 18:56:38" />
     <file relUrl="bin/SVC.dll.config" publishTime="12/10/2022 18:56:13" />
+    <file relUrl="bin/DAL.dll" publishTime="12/10/2022 18:47:28" />
     <file relUrl="bin/BLL.dll" publishTime="12/10/2022 18:47:28" />
     <file relUrl="bin/DAL.pdb" publishTime="12/10/2022 18:47:28" />
-    <file relUrl="Web.config" publishTime="12/10/2022 18:56:13" />
-    <file relUrl="bin/DAL.dll" publishTime="12/10/2022 18:47:28" />
+    <file relUrl="bin/BLL.pdb" publishTime="12/10/2022 18:47:28" />
   </publishTarget>
   <publishTarget publishUrl="C:\inetpub\wwwroot\">
-    <file relUrl="bin/BLL.pdb" publishTime="12/08/2022 21:32:07" />
     <file relUrl="bin/SVC.dll" publishTime="12/08/2022 21:32:07" />
+    <file relUrl="Web.config" publishTime="12/08/2022 21:22:02" />
     <file relUrl="bin/SVC.pdb" publishTime="12/08/2022 21:32:07" />
     <file relUrl="SVC.Contratos.DB.svc" publishTime="12/08/2022 21:34:43" />
     <file relUrl="bin/SVC.dll.config" publishTime="12/08/2022 21:22:02" />
+    <file relUrl="bin/DAL.dll" publishTime="12/08/2022 21:32:07" />
     <file relUrl="bin/BLL.dll" publishTime="12/08/2022 21:32:07" />
     <file relUrl="bin/DAL.pdb" publishTime="12/08/2022 21:32:07" />
-    <file relUrl="Web.config" publishTime="12/08/2022 21:22:02" />
-    <file relUrl="bin/DAL.dll" publishTime="12/08/2022 21:32:07" />
+    <file relUrl="bin/BLL.pdb" publishTime="12/08/2022 21:32:07" />
   </publishTarget>
 </publishData>
