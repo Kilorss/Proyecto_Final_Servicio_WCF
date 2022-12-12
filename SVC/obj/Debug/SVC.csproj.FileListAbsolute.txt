@@ -10,3 +10,15 @@ D:\a\III_Cuatri\Progra_IV\Proyecto Final\Tarea_1\SVC\obj\Debug\SVC.csproj.CoreCo
 D:\a\III_Cuatri\Progra_IV\Proyecto Final\Tarea_1\SVC\obj\Debug\SVC.csproj.CopyComplete
 D:\a\III_Cuatri\Progra_IV\Proyecto Final\Tarea_1\SVC\obj\Debug\SVC.dll
 D:\a\III_Cuatri\Progra_IV\Proyecto Final\Tarea_1\SVC\obj\Debug\SVC.pdb
+C:\Users\lizet\Desktop\Proyecto Final Progra IV Github\Proyecto_Final_Servicio_WCF\SVC\bin\Debug\SVC.dll.config
+C:\Users\lizet\Desktop\Proyecto Final Progra IV Github\Proyecto_Final_Servicio_WCF\SVC\bin\Debug\SVC.dll
+C:\Users\lizet\Desktop\Proyecto Final Progra IV Github\Proyecto_Final_Servicio_WCF\SVC\bin\Debug\SVC.pdb
+C:\Users\lizet\Desktop\Proyecto Final Progra IV Github\Proyecto_Final_Servicio_WCF\SVC\bin\Debug\BLL.dll
+C:\Users\lizet\Desktop\Proyecto Final Progra IV Github\Proyecto_Final_Servicio_WCF\SVC\bin\Debug\DAL.dll
+C:\Users\lizet\Desktop\Proyecto Final Progra IV Github\Proyecto_Final_Servicio_WCF\SVC\bin\Debug\BLL.pdb
+C:\Users\lizet\Desktop\Proyecto Final Progra IV Github\Proyecto_Final_Servicio_WCF\SVC\bin\Debug\DAL.pdb
+C:\Users\lizet\Desktop\Proyecto Final Progra IV Github\Proyecto_Final_Servicio_WCF\SVC\obj\Debug\SVC.csproj.AssemblyReference.cache
+C:\Users\lizet\Desktop\Proyecto Final Progra IV Github\Proyecto_Final_Servicio_WCF\SVC\obj\Debug\SVC.csproj.CoreCompileInputs.cache
+C:\Users\lizet\Desktop\Proyecto Final Progra IV Github\Proyecto_Final_Servicio_WCF\SVC\obj\Debug\SVC.csproj.CopyComplete
+C:\Users\lizet\Desktop\Proyecto Final Progra IV Github\Proyecto_Final_Servicio_WCF\SVC\obj\Debug\SVC.dll
+C:\Users\lizet\Desktop\Proyecto Final Progra IV Github\Proyecto_Final_Servicio_WCF\SVC\obj\Debug\SVC.pdb
