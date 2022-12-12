@@ -1,0 +1,5 @@
+D:\a\III_Cuatri\Progra_IV\Proyecto Final\Tarea_1\DAL\bin\Debug\DAL.dll
+D:\a\III_Cuatri\Progra_IV\Proyecto Final\Tarea_1\DAL\bin\Debug\DAL.pdb
+D:\a\III_Cuatri\Progra_IV\Proyecto Final\Tarea_1\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\a\III_Cuatri\Progra_IV\Proyecto Final\Tarea_1\DAL\obj\Debug\DAL.dll
+D:\a\III_Cuatri\Progra_IV\Proyecto Final\Tarea_1\DAL\obj\Debug\DAL.pdb
