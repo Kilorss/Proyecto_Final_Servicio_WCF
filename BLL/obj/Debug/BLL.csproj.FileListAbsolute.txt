@@ -1,9 +1,0 @@
-D:\a\III_Cuatri\Progra_IV\Proyecto Final\Tarea_1\BLL\bin\Debug\BLL.dll
-D:\a\III_Cuatri\Progra_IV\Proyecto Final\Tarea_1\BLL\bin\Debug\BLL.pdb
-D:\a\III_Cuatri\Progra_IV\Proyecto Final\Tarea_1\BLL\bin\Debug\DAL.dll
-D:\a\III_Cuatri\Progra_IV\Proyecto Final\Tarea_1\BLL\bin\Debug\DAL.pdb
-D:\a\III_Cuatri\Progra_IV\Proyecto Final\Tarea_1\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
-D:\a\III_Cuatri\Progra_IV\Proyecto Final\Tarea_1\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
-D:\a\III_Cuatri\Progra_IV\Proyecto Final\Tarea_1\BLL\obj\Debug\BLL.csproj.CopyComplete
-D:\a\III_Cuatri\Progra_IV\Proyecto Final\Tarea_1\BLL\obj\Debug\BLL.dll
-D:\a\III_Cuatri\Progra_IV\Proyecto Final\Tarea_1\BLL\obj\Debug\BLL.pdb
