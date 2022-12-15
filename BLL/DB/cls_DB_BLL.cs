@@ -18,7 +18,7 @@ namespace BLL.DB
         {
             try
             {
-                Obj_DB_DAL.Obj_CNX = new SqlConnection(ConfigurationManager.ConnectionStrings["SQL_AUT"].ToString());
+                Obj_DB_DAL.Obj_CNX = new SqlConnection(ConfigurationManager.ConnectionStrings["WIN_AUT"].ToString());
 
                 if (Obj_DB_DAL.Obj_CNX.State == ConnectionState.Closed)
                 {

@@ -22,3 +22,15 @@ C:\Users\lizet\Desktop\Proyecto Final Progra IV Github\Proyecto_Final_Servicio_W
 C:\Users\lizet\Desktop\Proyecto Final Progra IV Github\Proyecto_Final_Servicio_WCF\SVC\obj\Debug\SVC.csproj.CopyComplete
 C:\Users\lizet\Desktop\Proyecto Final Progra IV Github\Proyecto_Final_Servicio_WCF\SVC\obj\Debug\SVC.dll
 C:\Users\lizet\Desktop\Proyecto Final Progra IV Github\Proyecto_Final_Servicio_WCF\SVC\obj\Debug\SVC.pdb
+C:\Users\Yorlan Rodriguez .E\Documents\GitHub\Proyecto_Final_Servicio_WCF\SVC\bin\Debug\SVC.dll.config
+C:\Users\Yorlan Rodriguez .E\Documents\GitHub\Proyecto_Final_Servicio_WCF\SVC\bin\Debug\SVC.dll
+C:\Users\Yorlan Rodriguez .E\Documents\GitHub\Proyecto_Final_Servicio_WCF\SVC\bin\Debug\SVC.pdb
+C:\Users\Yorlan Rodriguez .E\Documents\GitHub\Proyecto_Final_Servicio_WCF\SVC\bin\Debug\BLL.dll
+C:\Users\Yorlan Rodriguez .E\Documents\GitHub\Proyecto_Final_Servicio_WCF\SVC\bin\Debug\DAL.dll
+C:\Users\Yorlan Rodriguez .E\Documents\GitHub\Proyecto_Final_Servicio_WCF\SVC\bin\Debug\BLL.pdb
+C:\Users\Yorlan Rodriguez .E\Documents\GitHub\Proyecto_Final_Servicio_WCF\SVC\bin\Debug\DAL.pdb
+C:\Users\Yorlan Rodriguez .E\Documents\GitHub\Proyecto_Final_Servicio_WCF\SVC\obj\Debug\SVC.csproj.AssemblyReference.cache
+C:\Users\Yorlan Rodriguez .E\Documents\GitHub\Proyecto_Final_Servicio_WCF\SVC\obj\Debug\SVC.csproj.CoreCompileInputs.cache
+C:\Users\Yorlan Rodriguez .E\Documents\GitHub\Proyecto_Final_Servicio_WCF\SVC\obj\Debug\SVC.csproj.CopyComplete
+C:\Users\Yorlan Rodriguez .E\Documents\GitHub\Proyecto_Final_Servicio_WCF\SVC\obj\Debug\SVC.dll
+C:\Users\Yorlan Rodriguez .E\Documents\GitHub\Proyecto_Final_Servicio_WCF\SVC\obj\Debug\SVC.pdb

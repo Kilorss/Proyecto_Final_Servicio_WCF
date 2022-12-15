@@ -16,3 +16,12 @@ C:\Users\lizet\Desktop\Proyecto Final Progra IV Github\Proyecto_Final_Servicio_W
 C:\Users\lizet\Desktop\Proyecto Final Progra IV Github\Proyecto_Final_Servicio_WCF\BLL\obj\Debug\BLL.csproj.CopyComplete
 C:\Users\lizet\Desktop\Proyecto Final Progra IV Github\Proyecto_Final_Servicio_WCF\BLL\obj\Debug\BLL.dll
 C:\Users\lizet\Desktop\Proyecto Final Progra IV Github\Proyecto_Final_Servicio_WCF\BLL\obj\Debug\BLL.pdb
+C:\Users\Yorlan Rodriguez .E\Documents\GitHub\Proyecto_Final_Servicio_WCF\BLL\bin\Debug\BLL.dll
+C:\Users\Yorlan Rodriguez .E\Documents\GitHub\Proyecto_Final_Servicio_WCF\BLL\bin\Debug\BLL.pdb
+C:\Users\Yorlan Rodriguez .E\Documents\GitHub\Proyecto_Final_Servicio_WCF\BLL\bin\Debug\DAL.dll
+C:\Users\Yorlan Rodriguez .E\Documents\GitHub\Proyecto_Final_Servicio_WCF\BLL\bin\Debug\DAL.pdb
+C:\Users\Yorlan Rodriguez .E\Documents\GitHub\Proyecto_Final_Servicio_WCF\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\Yorlan Rodriguez .E\Documents\GitHub\Proyecto_Final_Servicio_WCF\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Yorlan Rodriguez .E\Documents\GitHub\Proyecto_Final_Servicio_WCF\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\Yorlan Rodriguez .E\Documents\GitHub\Proyecto_Final_Servicio_WCF\BLL\obj\Debug\BLL.dll
+C:\Users\Yorlan Rodriguez .E\Documents\GitHub\Proyecto_Final_Servicio_WCF\BLL\obj\Debug\BLL.pdb

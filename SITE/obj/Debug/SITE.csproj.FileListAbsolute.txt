@@ -28,3 +28,18 @@ C:\Users\lizet\Desktop\Proyecto Final Progra IV Github\Proyecto_Final_Servicio_W
 C:\Users\lizet\Desktop\Proyecto Final Progra IV Github\Proyecto_Final_Servicio_WCF\SITE\obj\Debug\SITE.csproj.CopyComplete
 C:\Users\lizet\Desktop\Proyecto Final Progra IV Github\Proyecto_Final_Servicio_WCF\SITE\obj\Debug\SITE.dll
 C:\Users\lizet\Desktop\Proyecto Final Progra IV Github\Proyecto_Final_Servicio_WCF\SITE\obj\Debug\SITE.pdb
+C:\Users\Yorlan Rodriguez .E\Documents\GitHub\Proyecto_Final_Servicio_WCF\SITE\bin\SITE.dll.config
+C:\Users\Yorlan Rodriguez .E\Documents\GitHub\Proyecto_Final_Servicio_WCF\SITE\bin\SITE.dll
+C:\Users\Yorlan Rodriguez .E\Documents\GitHub\Proyecto_Final_Servicio_WCF\SITE\bin\SITE.pdb
+C:\Users\Yorlan Rodriguez .E\Documents\GitHub\Proyecto_Final_Servicio_WCF\SITE\bin\SVC.dll
+C:\Users\Yorlan Rodriguez .E\Documents\GitHub\Proyecto_Final_Servicio_WCF\SITE\bin\DAL.dll
+C:\Users\Yorlan Rodriguez .E\Documents\GitHub\Proyecto_Final_Servicio_WCF\SITE\bin\BLL.dll
+C:\Users\Yorlan Rodriguez .E\Documents\GitHub\Proyecto_Final_Servicio_WCF\SITE\bin\SVC.pdb
+C:\Users\Yorlan Rodriguez .E\Documents\GitHub\Proyecto_Final_Servicio_WCF\SITE\bin\SVC.dll.config
+C:\Users\Yorlan Rodriguez .E\Documents\GitHub\Proyecto_Final_Servicio_WCF\SITE\bin\DAL.pdb
+C:\Users\Yorlan Rodriguez .E\Documents\GitHub\Proyecto_Final_Servicio_WCF\SITE\bin\BLL.pdb
+C:\Users\Yorlan Rodriguez .E\Documents\GitHub\Proyecto_Final_Servicio_WCF\SITE\obj\Debug\SITE.csproj.AssemblyReference.cache
+C:\Users\Yorlan Rodriguez .E\Documents\GitHub\Proyecto_Final_Servicio_WCF\SITE\obj\Debug\SITE.csproj.CoreCompileInputs.cache
+C:\Users\Yorlan Rodriguez .E\Documents\GitHub\Proyecto_Final_Servicio_WCF\SITE\obj\Debug\SITE.csproj.CopyComplete
+C:\Users\Yorlan Rodriguez .E\Documents\GitHub\Proyecto_Final_Servicio_WCF\SITE\obj\Debug\SITE.dll
+C:\Users\Yorlan Rodriguez .E\Documents\GitHub\Proyecto_Final_Servicio_WCF\SITE\obj\Debug\SITE.pdb
