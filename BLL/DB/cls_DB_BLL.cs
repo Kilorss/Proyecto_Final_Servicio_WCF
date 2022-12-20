@@ -97,6 +97,16 @@ namespace BLL.DB
                                     TipoDatoSQL = SqlDbType.TinyInt;
                                     break;
                                 }
+                            case "12":
+                                {
+                                    TipoDatoSQL = SqlDbType.Date;
+                                    break;
+                                }
+                            case "13":
+                                {
+                                    TipoDatoSQL = SqlDbType.SmallInt;
+                                    break;
+                                }
 
                             default:
                                 break;
@@ -211,6 +221,21 @@ namespace BLL.DB
                             case "10":
                                 {
                                     TipoDatoSQL = SqlDbType.Money;
+                                    break;
+                                }
+                            case "11":
+                                {
+                                    TipoDatoSQL = SqlDbType.TinyInt;
+                                    break;
+                                }
+                            case "12":
+                                {
+                                    TipoDatoSQL = SqlDbType.Date;
+                                    break;
+                                }
+                            case "13":
+                                {
+                                    TipoDatoSQL = SqlDbType.SmallInt;
                                     break;
                                 }
 
